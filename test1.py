@@ -17,3 +17,5 @@ for x in range(len(s)):
         #close
         if Exception:
             pass
+            print("123")
+            
